@@ -1,7 +1,7 @@
 {
-  "name": "strider-template",
-  "version": "1.0.0",
-  "description": "Plugin template for Strider CD",
+  "name": "strider-sso-request-header",
+  "version": "0.0.0",
+  "description": "SSO request header plugin for Strider CD",
   "main": "webapp.js",
   "scripts": {
     "test": "mocha -R spec --recursive test"
